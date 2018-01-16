@@ -14,6 +14,7 @@
 		A089506F1F53FA3B00D2EE44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A089506D1F53FA3B00D2EE44 /* LaunchScreen.storyboard */; };
 		A089507A1F53FA3B00D2EE44 /* belajarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08950791F53FA3B00D2EE44 /* belajarTests.swift */; };
 		A08950851F53FA3B00D2EE44 /* belajarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08950841F53FA3B00D2EE44 /* belajarUITests.swift */; };
+		A0F233E61FEFA29F0019D6BF /* Lagi.xib in Resources */ = {isa = PBXBuildFile; fileRef = A0F233E51FEFA29F0019D6BF /* Lagi.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A08950801F53FA3B00D2EE44 /* belajarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = belajarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A08950841F53FA3B00D2EE44 /* belajarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = belajarUITests.swift; sourceTree = "<group>"; };
 		A08950861F53FA3B00D2EE44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0F233E51FEFA29F0019D6BF /* Lagi.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Lagi.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				A089506B1F53FA3B00D2EE44 /* Assets.xcassets */,
 				A089506D1F53FA3B00D2EE44 /* LaunchScreen.storyboard */,
 				A08950701F53FA3B00D2EE44 /* Info.plist */,
+				A0F233E51FEFA29F0019D6BF /* Lagi.xib */,
 			);
 			path = belajar;
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			files = (
 				A089506F1F53FA3B00D2EE44 /* LaunchScreen.storyboard in Resources */,
 				A089506C1F53FA3B00D2EE44 /* Assets.xcassets in Resources */,
+				A0F233E61FEFA29F0019D6BF /* Lagi.xib in Resources */,
 				A089506A1F53FA3B00D2EE44 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -507,6 +511,7 @@
 				A089508B1F53FA3B00D2EE44 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A089508C1F53FA3B00D2EE44 /* Build configuration list for PBXNativeTarget "belajarTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +520,7 @@
 				A089508E1F53FA3B00D2EE44 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A089508F1F53FA3B00D2EE44 /* Build configuration list for PBXNativeTarget "belajarUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +529,7 @@
 				A08950911F53FA3B00D2EE44 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
